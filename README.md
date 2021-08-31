@@ -1,5 +1,5 @@
 # ICP1-Task2
-Task 1- Created a Repository
+*Task 1- Created a Repository
 Task 2 - Installed Github Application and cloned it 
 Task 3 - HTML file in webstrom
 Task 4 - All the necessary screenshorts are stored in documentation file
